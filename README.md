@@ -3,7 +3,7 @@
 <html>
 
   <head>
-    <title> My First Web Page x2</title>
+    
   </head>
 
   <body>
